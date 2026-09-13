@@ -1,4 +1,4 @@
-# Controle de Locação de Veículos — Dashboard Power BI
+# Vehicle Rental Management — Dashboard Power BI
 
 Dashboard de gestão para uma locadora de veículos fictícia (Yto Car), cobrindo faturamento, base de clientes, controle de frota e uma camada preditiva de vendas.
 
