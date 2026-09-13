@@ -49,7 +49,7 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 <td width="50%">
 <p align="center">
   <strong>Tabela de medidas</strong><br>
-  <img src="imagens/Measures.png" width="50"><br>
+  <img src="imagens/Measures.png" width="110"><br>
   <em>Medidas DAX centralizadas — Faturamento, Média KM, Ticket Médio, Total de Clientes e Total de Cidades — organizadas numa tabela dedicada, reutilizável em todo o relatório.</em>
 </p>
 </td>
