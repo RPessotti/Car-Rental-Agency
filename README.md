@@ -18,7 +18,7 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 <img src="imagens/locadora-previsao.png" width="700">
 
 ## 🔗 Dashboard Interativo
-[▶️ Clique aqui para explorar o dashboard ao vivo](COLE_SEU_LINK_AQUI)
+[▶️ Clique aqui para explorar o dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiYzNjNTA1ZDctODRkNy00YzM3LThkOGItYWM1ODgyYTkzYWZjIiwidCI6IjY1NWFhNjFkLTVkY2ItNDE4Mi05N2YxLTJmNTQ5MTlkZTBjZiJ9)
 
 ## 🧩 Destaques técnicos
 - **Modelagem relacional avançada**: uso combinado de Inner Join, Left Join e Left Anti Join entre as tabelas de clientes (`tb_cli`) e quilometragem (`tb_km`), isolando clientes cadastrados, não cadastrados e cruzamentos completos.
