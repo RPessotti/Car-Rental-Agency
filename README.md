@@ -18,7 +18,7 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 <em>Tela de abertura dashboard, apresentando  o projeto "Controle de Locação de Veículos" e os três eixos principais de análise: controle de clientes, controle de modelo / faturamento e monitoramento de quilometragem / previsão de vendas.</em>
 </p>
 
-### Locação de Veículos
+### Locação de Veiculos
 <p align="center">
   <img src="imagens/mainpanel.png" width="700"><br>
 <em>Visão geral operacional: total de clientes, quilometragem média e faturamento consolidado, com filtros por situação, ano, modelo e dia. Traz também a distribuição de faturamento por ano e por dia da semana, além de uma tabela de consumos com busca dinâmica por placa do veículo.</em>
