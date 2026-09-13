@@ -85,7 +85,7 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 
 ## 📁 Estrutura
 - Dashboard - LOCADORA DE VEICULO.pbix
-- imagens/
+- imagens/imagens
 - Dashboard interativo
 - Destaques técnicos
 - README.md
