@@ -36,11 +36,25 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 <em>Módulo preditivo: evolução histórica do faturamento (2014–2019) para clientes ativos, com projeção de tendência e banda de incerteza para 2020, além de indicadores de ticket médio e quantidade de clientes no período filtrado.</em>
 </p>
 
-<img src="imagens/ModelDisplay.png" width="700">
-Modelagem relacional com Inner Join, Left Join e Left Anti Join entre as tabelas de clientes (tb_cli) e quilometragem (tb_km), isolando clientes cadastrados, não cadastrados e cruzamentos completos.
-
-<img src="imagens/Measures.png" width="100">
-Medidas DAX centralizadas — Faturamento, Média KM, Ticket Médio, Total de Clientes e Total de Cidades — organizadas numa tabela dedicada, reutilizável em todo o relatório.
+### Modelo de Dados e Medidas
+<table>
+<tr>
+<td width="50%">
+<p align="center">
+  <strong>Modelo de dados</strong><br>
+  <img src="imagens/ModelDisplay.png" width="350"><br>
+  <em>Modelagem relacional com Inner Join, Left Join e Left Anti Join entre as tabelas de clientes (tb_cli) e quilometragem (tb_km), isolando clientes cadastrados, não cadastrados e cruzamentos completos.</em>
+</p>
+</td>
+<td width="50%">
+<p align="center">
+  <strong>Tabela de medidas</strong><br>
+  <img src="imagens/Measures.png" width="350"><br>
+  <em>Medidas DAX centralizadas — Faturamento, Média KM, Ticket Médio, Total de Clientes e Total de Cidades — organizadas numa tabela dedicada, reutilizável em todo o relatório.</em>
+</p>
+</td>
+</tr>
+</table>
 
 ## 🔗 Dashboard Interativo
 [▶️ Clique aqui para explorar o dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiYzNjNTA1ZDctODRkNy00YzM3LThkOGItYWM1ODgyYTkzYWZjIiwidCI6IjY1NWFhNjFkLTVkY2ItNDE4Mi05N2YxLTJmNTQ5MTlkZTBjZiJ9)
