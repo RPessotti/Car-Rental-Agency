@@ -33,7 +33,6 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 ### Previsão
 <p align="center">
   <img src="imagens/Forecast.png" width="700"><br>
-<img src="imagens/Forecast.png" width="700">
 <em>Módulo preditivo: evolução histórica do faturamento (2014–2019) para clientes ativos, com projeção de tendência e banda de incerteza para 2020, além de indicadores de ticket médio e quantidade de clientes no período filtrado.</em>
 </p>
 
