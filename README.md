@@ -12,7 +12,7 @@ Dados fictícios da plataforma Kaggle criados para prática, simulando uma locad
 Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, Left Join, Left Anti Join)
 
 ## 🖼️ Preview
-<img src="imagens/AgenciaDeAluguelDeCarros1.png" width="700">
+<img src="imagens/CarRentalAgency1.png" width="700">
 <img src="imagens/locadora-dashboard.png" width="700">
 <img src="imagens/locadora-preditiva.png" width="700">
 <img src="imagens/locadora-previsao.png" width="700">
