@@ -14,11 +14,16 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 ## 🖼️ Preview
 <img src="imagens/CarRentalAgency1.png" width="700">
 Tela de abertura dashboard, apresentando  o projeto "Controle de Locação de Veículos" e os três eixos principais de análise: controle de clientes, controle de modelo / faturamento e monitoramento de quilometragem / previsão de vendas.
+
 <img src="imagens/mainpanel.png" width="700">
+Visão geral operacional: total de clientes, quilometragem média e faturamento consolidado, com filtros por situação, ano, modelo e dia. Traz também a distribuição de faturamento por ano e por dia da semana, além de uma tabela de consumos com busca dinâmica por placa do veículo.
 
 <img src="imagens/Clients.png" width="700">
+
 <img src="imagens/Forecast.png" width="700">
+
 <img src="imagens/ModelDisplay.png" width="700">
+
 <img src="imagens/Measures.png" width="100">
 
 ## 🔗 Dashboard Interativo
