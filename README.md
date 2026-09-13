@@ -18,16 +18,24 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 <em>Tela de abertura dashboard, apresentando  o projeto "Controle de Locação de Veículos" e os três eixos principais de análise: controle de clientes, controle de modelo / faturamento e monitoramento de quilometragem / previsão de vendas.</em>
 </p>
 
+### Locação de Veículos
 <p align="center">
   <img src="imagens/mainpanel.png" width="700"><br>
 <em>Visão geral operacional: total de clientes, quilometragem média e faturamento consolidado, com filtros por situação, ano, modelo e dia. Traz também a distribuição de faturamento por ano e por dia da semana, além de uma tabela de consumos com busca dinâmica por placa do veículo.</em>
 </p>
 
-<img src="imagens/Clients.png" width="700">
-Painel focado na qualidade da base de clientes da Yto Car: proporção de veículos por categoria (Luxo, Light, não registrada), situação cadastral (cadastrado vs. não cadastrado) e o faturamento associado a cada grupo. Duas tabelas lado a lado permitem cruzar rapidamente clientes com e sem cadastro completo.
+### Clientes
+<p align="center">
+  <img src="imagens/Clients.png" width="700"><br>
+<em>Painel focado na qualidade da base de clientes da Yto Car: proporção de veículos por categoria (Luxo, Light, não registrada), situação cadastral (cadastrado vs. não cadastrado) e o faturamento associado a cada grupo. Duas tabelas lado a lado permitem cruzar rapidamente clientes com e sem cadastro completo.</em>
+</p>
 
+### Previsão
+<p align="center">
+  <img src="imagens/Forecast.png" width="700"><br>
 <img src="imagens/Forecast.png" width="700">
-Módulo preditivo: evolução histórica do faturamento (2014–2019) para clientes ativos, com projeção de tendência e banda de incerteza para 2020, além de indicadores de ticket médio e quantidade de clientes no período filtrado.
+<em>Módulo preditivo: evolução histórica do faturamento (2014–2019) para clientes ativos, com projeção de tendência e banda de incerteza para 2020, além de indicadores de ticket médio e quantidade de clientes no período filtrado.</em>
+</p>
 
 <img src="imagens/ModelDisplay.png" width="700">
 Modelagem relacional com Inner Join, Left Join e Left Anti Join entre as tabelas de clientes (tb_cli) e quilometragem (tb_km), isolando clientes cadastrados, não cadastrados e cruzamentos completos.
