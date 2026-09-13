@@ -13,11 +13,11 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 
 ## 🖼️ Preview
 <img src="imagens/CarRentalAgency1.png" width="700">
-<img src="imagens/locadora-dashboard.png" width="700">
-<img src="imagens/locadora-preditiva.png" width="700">
-<img src="imagens/locadora-previsao.png" width="700">
-<img src="imagens/locadora-preditiva.png" width="700">
-<img src="imagens/locadora-previsao.png" width="700">
+<img src="imagens/Mainpanel.png" width="700">
+<img src="imagens/Clients.png" width="700">
+<img src="imagens/Forecast.png" width="700">
+<img src="imagens/ModelDisplay.png" width="700">
+<img src="imagens/Measures.png" width="700">
 
 ## 🔗 Dashboard Interativo
 [▶️ Clique aqui para explorar o dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiYzNjNTA1ZDctODRkNy00YzM3LThkOGItYWM1ODgyYTkzYWZjIiwidCI6IjY1NWFhNjFkLTVkY2ItNDE4Mi05N2YxLTJmNTQ5MTlkZTBjZiJ9)
