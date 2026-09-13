@@ -13,7 +13,7 @@ Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, 
 
 ## 🖼️ Preview
 <img src="imagens/CarRentalAgency1.png" width="700">
-<img src="imagens/Mainpanel.png" width="700">
+<img src="imagens/mainpanel.png" width="700">
 <img src="imagens/Clients.png" width="700">
 <img src="imagens/Forecast.png" width="700">
 <img src="imagens/ModelDisplay.png" width="700">
