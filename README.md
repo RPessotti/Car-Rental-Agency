@@ -1,7 +1,16 @@
-# Vehicle Rental Management — Dashboard Power BI
+<h1 align="center">🚗 Vehicle Rental Management</h1>
 
-Dashboard de gestão para uma locadora de veículos fictícia (Yto Car), cobrindo faturamento, base de clientes, controle de frota e uma camada preditiva de vendas.
+<p align="center">
+  <strong>Dashboard de gestão em Power BI</strong> — controle de locação de veículos, faturamento e previsão preditiva de vendas
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/DAX-107C10?style=flat">
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat">
+</p>
+
+---
 ## 🎯 Objetivo
 Centralizar indicadores operacionais e financeiros de uma locadora — faturamento, ticket médio, quilometragem e qualidade cadastral da base de clientes — além de projetar tendências futuras de faturamento.
 
