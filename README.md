@@ -17,7 +17,7 @@ Centralizar indicadores operacionais e financeiros de uma locadora — faturamen
 ## 📊 Fonte de dados
 Dados fictícios da plataforma Kaggle criados para prática, simulando uma locadora de veículos (Yto Car) com operação em múltiplas cidades entre 2014 e 2019.
 
-## 🛠️ Ferramentas
+## 🛠️ Ferramentas utilizadas
 Power BI Desktop · DAX · Power Query (M) · Modelagem relacional (Inner Join, Left Join, Left Anti Join)
 
 ## 🖼️ Preview
