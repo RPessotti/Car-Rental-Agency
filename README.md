@@ -1,4 +1,4 @@
-<h1 align="center">🚗 Vehicle Rental Management</h1>
+<h1 align="center"> Vehicle Rental Management</h1>
 
 <p align="center">
   <strong>Dashboard de gestão em Power BI</strong> — controle de locação de veículos, faturamento e previsão preditiva de vendas
