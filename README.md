@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/DAX-107C10?style=flat">
   <img src="https://img.shields.io/badge/Power_Query-217346?style=flat">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
 </p>
 
 ---
